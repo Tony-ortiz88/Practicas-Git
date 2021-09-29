@@ -1,0 +1,202 @@
+
+    #topbar{
+        width: 1100px; margin: 0 auto; background-color:#FFFFFF;
+        height: 40px;
+    }
+    body{
+        margin: 0; padding: 0;
+        font-family: Arial,Helvetica,sans-serif;
+    }
+    #logo{
+        margin-top: 8px;
+        width: 84px;
+        height: 24px;
+        float: left;
+        padding: 0px 8px 0px 10px;
+        
+    }
+    .topbar-section{
+        float: left;
+        height: 100%;
+        border-left: 1px #cccccc solid;   
+    }
+    #sign-in{
+        
+        width: 84px;
+        height: 24px;
+        padding: 10px 8px 0px 10px;
+        float: left;
+        
+    }
+    #sign-intexto{
+        
+        font-weight: bold;
+        font-size: 85%;
+        position: relative;
+                        
+        
+    }
+    .topbar-menu{
+        
+        font-weight: bold;
+        font-size: 85%;
+        padding: 18px 15px 0px 10px;
+        height: 20px;
+
+    }
+    #more-arrow{
+        float: right;
+        margin-left: 40px;
+    }
+    #search-box{
+        background-color: #E4E4E4;
+        border: none;
+        font-weight: bold;
+        font-size: 14px;
+        width: 110px;
+        float: left;
+        margin: 12px 0px 5px 5px;
+        padding: 5px;
+    }
+    #lupa{
+        height: 26px;
+        margin-top: 12px;
+    }
+    .clear{
+        clear:both;
+    }
+    #menu-bar-container{
+        background-color: #BB1919;
+        border-top: 1px #cccccc solid;
+        width: 100%;
+        height: 80px;
+        
+    }
+    #menu-bar{
+        width: 1100px;
+        margin: 0 auto;
+    }
+    #menu-bar-container-2{
+        background-color: #a91717;
+        width: 100%;
+        height: 40px;
+    }
+    #menu-bar-2{
+        width: 1100px;
+        margin: 0 auto;
+    }
+    #menu-bar-2 a{
+       color: white;
+       text-decoration: none;
+       font-size: 14px;
+       border-right: 1px #B84545 solid;
+       position: relative;
+       top: 10px;
+       padding: 0 10px;
+    }
+    #menu-bar-2 a:hover
+    {
+        text-decoration: underline;
+
+    }
+    #morerojo-arrow{
+        height: 6px;
+        position: relative;
+        top: 5px;
+    }
+    h1{
+        padding: 0;
+        margin: 0;
+        color: white;
+        font-size: 40px;
+        font-weight: 300px;
+        padding-top: 10px;
+    }
+    .no-border{
+        border: none !important;
+    }
+    #page-container{
+        width: 1100px;
+        margin: 0 auto;
+    }
+    h2{
+       font-weight: normal;
+       font-size: 20px;
+       border-bottom: 2px #BB1919 solid;
+       width: 105;               
+    }
+    h3 a{
+        font-size: 35px;
+        text-decoration: none;
+        color: black;
+    }
+    h3 a:hover{
+        color: #1167a8;    
+    }
+    #article-summary{
+        color: #5a5a5a;
+        width: 240px;
+        float: left;
+    }
+    .reloj-fecha{
+        padding-right: 5px;
+        top: 2px;
+        position: relative;
+    }
+    #article-summary a:hover{
+        
+        color: #1167a8;
+    }
+    .date{
+        padding-right: 8px;
+        font-size: 14px;
+    }
+    #article-principal-container{
+        float: left;
+        width: 750px;
+        height: 1000px;
+        border-right: 1px solid #cccccc;
+        padding-left: 5px;               
+    }
+    #img-article-principal{
+        width: 400px;
+        margin-left: 70px;
+        
+    }
+    #article-hr{
+        border-top: 1px solid#991717;
+        width: 50px;
+    }
+    .article-link{
+        text-decoration: none;
+        color: black;
+        font-size: 14px;
+        font-weight: bold;
+        
+    }
+    .article-link:hover{               
+        color: #1167a8;
+    }
+
+    .topic-link{
+        text-decoration: none;
+        color: #a61b1b;
+    }
+    .topic-link:hover{               
+        color: #1167a8;
+    }
+    #watch-listen{
+        margin-left:20px;
+        width:360px;
+        float: left;
+        position:relative;
+        top:-25px;
+        left:30px;
+    }
+    h4
+    {
+        font-size: 24px;
+        font-weight: bold;
+        padding-left: 45px;
+    }
+    
